@@ -1,0 +1,38 @@
+{
+    "sourceFile": "app/blog/posts/my-zen.mdx",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 5,
+            "patches": [
+                {
+                    "date": 1734442348456,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1734442356671,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n ---\n-title: 'The Power of Static Typing in Programming'\n+title: ''\n publishedAt: '2024-04-07'\n summary: 'In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.'\n ---\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1734442364161,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n ---\n-title: ''\n-publishedAt: '2024-04-07'\n+title: 'My zen'\n+publishedAt: '2024-12-17'\n summary: 'In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.'\n ---\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1734442403004,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n ---\n title: 'My zen'\n-publishedAt: '2024-12-17'\n+publishedAt: '2024-11-17'\n summary: 'In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.'\n ---\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1734442412004,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n ---\n title: 'My zen'\n-publishedAt: '2024-11-17'\n+publishedAt: '2024-06-17'\n summary: 'In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.'\n ---\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1734442452005,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n ---\n title: 'My zen'\n-publishedAt: '2024-06-17'\n+publishedAt: '2024-11-17'\n summary: 'In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.'\n ---\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1734442348456,
+            "name": "Commit-0",
+            "content": "---\ntitle: 'The Power of Static Typing in Programming'\npublishedAt: '2024-04-07'\nsummary: 'In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.'\n---"
+        }
+    ]
+}

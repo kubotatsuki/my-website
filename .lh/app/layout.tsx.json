@@ -1,0 +1,22 @@
+{
+    "sourceFile": "app/layout.tsx",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1734442135133,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1734442146550,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,9 +11,9 @@\n export const metadata: Metadata = {\n   metadataBase: new URL(baseUrl),\n   title: {\n     default: 'Kubo Tatsuki',\n-    template: '%s | Next.js Portfolio Starter',\n+    template: '%s | Kubo Tatsuki',\n   },\n   description: 'This is my portfolio.',\n   openGraph: {\n     title: 'My Portfolio',\n"
+                }
+            ],
+            "date": 1734442135133,
+            "name": "Commit-0",
+            "content": "import './global.css'\nimport type { Metadata } from 'next'\nimport { GeistSans } from 'geist/font/sans'\nimport { GeistMono } from 'geist/font/mono'\nimport { Navbar } from './components/nav'\nimport { Analytics } from '@vercel/analytics/react'\nimport { SpeedInsights } from '@vercel/speed-insights/next'\nimport Footer from './components/footer'\nimport { baseUrl } from './sitemap'\n\nexport const metadata: Metadata = {\n  metadataBase: new URL(baseUrl),\n  title: {\n    default: 'Kubo Tatsuki',\n    template: '%s | Next.js Portfolio Starter',\n  },\n  description: 'This is my portfolio.',\n  openGraph: {\n    title: 'My Portfolio',\n    description: 'This is my portfolio.',\n    url: baseUrl,\n    siteName: 'My Portfolio',\n    locale: 'en_US',\n    type: 'website',\n  },\n  robots: {\n    index: true,\n    follow: true,\n    googleBot: {\n      index: true,\n      follow: true,\n      'max-video-preview': -1,\n      'max-image-preview': 'large',\n      'max-snippet': -1,\n    },\n  },\n}\n\nconst cx = (...classes) => classes.filter(Boolean).join(' ')\n\nexport default function RootLayout({\n  children,\n}: {\n  children: React.ReactNode\n}) {\n  return (\n    <html\n      lang=\"en\"\n      className={cx(\n        'text-black bg-white dark:text-white dark:bg-black',\n        GeistSans.variable,\n        GeistMono.variable\n      )}\n    >\n      <body className=\"antialiased max-w-xl mx-4 mt-8 lg:mx-auto\">\n        <main className=\"flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0\">\n          <Navbar />\n          {children}\n          <Footer />\n          <Analytics />\n          <SpeedInsights />\n        </main>\n      </body>\n    </html>\n  )\n}\n"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "sourceFile": "app/page.tsx",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 36,
+            "patches": [
+                {
+                    "date": 1734437972711,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1734437979406,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n export default function Page() {\n   return (\n     <section>\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n-        \n+        Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n         {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in\n         Vim's keystroke commands and tabs' flexibility for personal viewing\n"
+                },
+                {
+                    "date": 1734437998401,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,13 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in\n-        Vim's keystroke commands and tabs' flexibility for personal viewing\n-        preferences. This extends to my support for static typing, where its\n-        early error detection ensures cleaner code, and my preference for dark\n-        mode, which eases long coding sessions by reducing eye strain.`}\n+        {`I'm a `}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438010685,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a `}\n+        {`I'm a photogra`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438222624,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photogra`}\n+        {`I'm a photographer、`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438229863,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographer、`}\n+        {`I'm a photographe`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438236144,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographe`}\n+        {`I'm a photographer}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438258351,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographer}\n+        {`I'm a photographer\\}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438269850,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographer\\}\n+        {`I'm a photographer}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438286549,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographer}\n+        {`I'm a photograph`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438298777,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photograph`}\n+        {`I'm a photographer`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438306575,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographer`}\n+        {`I'm a photographer、coder、`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438318110,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographer、coder、`}\n+        {`I'm a photographer、programmer`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438339235,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`I'm a photographer、programmer`}\n+        {`photogra`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438346546,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,17 @@\n+import { BlogPosts } from 'app/components/posts'\n+\n+export default function Page() {\n+  return (\n+    <section>\n+      <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n+        Kubo Tatsuki\n+      </h1>\n+      <p className=\"mb-4\">\n+        {`photographer\\ programmer`}\n+      </p>\n+      <div className=\"my-8\">\n+        <BlogPosts />\n+      </div>\n+    </section>\n+  )\n+}\n"
+                },
+                {
+                    "date": 1734438354257,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,29 +6,12 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer\\ programmer`}\n+        {`photographerprogrammer`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n     </section>\n   )\n }\n-import { BlogPosts } from 'app/components/posts'\n-\n-export default function Page() {\n-  return (\n-    <section>\n-      <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n-        Kubo Tatsuki\n-      </h1>\n-      <p className=\"mb-4\">\n-        {`photogra`}\n-      </p>\n-      <div className=\"my-8\">\n-        <BlogPosts />\n-      </div>\n-    </section>\n-  )\n-}\n"
+                },
+                {
+                    "date": 1734438369257,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographerprogrammer`}\n+        {`photographer \\programmer`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438374559,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer \\programmer`}\n+        {`photographerprogrammer`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438381160,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographerprogrammer`}\n+        {`photographer & programmer`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438388721,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer`}\n+        {`photographer & programmer & desig`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438413945,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,10 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & desig`}\n+        {`photographer & programmer & designer\n+        `}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438426806,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,10 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer\n-        `}\n+        {`photographer & programmer & designer /br who is `}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438434060,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer /br who is `}\n+        {`photographer & programmer & designer<br>`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438440175,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer<br>`}\n+        {`photographer & programmer & designer<br/>who`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438449963,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer<br/>who`}\n+        {`photographer & programmer & designer who`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438515493,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer who`}\n+        {`photographer & programmer & designer who\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438522078,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,10 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer who\n+        photographer & programmer & designer who\n+        \n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438531030,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,10 +6,10 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        photographer & programmer & designer who\n-        \n+        photographer & programmer & designer\n+        <br.\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734438536089,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,10 @@\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n-        <br.\n+        <br />\n+        who\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734440412141,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,11 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        photographer & programmer & designer\n-        <br />\n-        who\n+        {`photographer & programmer & designer who`}\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734440501540,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,9 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer who`}\n+        {`photographer & programmer & designer\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734440514316,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,9 +6,10 @@\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n-        {`photographer & programmer & designer\n+        photographer & programmer & designer\n+        \n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734440520248,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,8 +7,9 @@\n         Kubo Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n+        <br />\n         \n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n"
+                },
+                {
+                    "date": 1734440529863,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,19 @@\n+import { BlogPosts } from 'app/components/posts'\n+\n+export default function Page() {\n+  return (\n+    <section>\n+      <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n+        Kubo Tatsuki\n+      </h1>\n+      <p className=\"mb-4\">\n+        photographer & programmer & designer\n+        <br />\n+        who is \n+      </p>\n+      <div className=\"my-8\">\n+        <BlogPosts />\n+      </div>\n+    </section>\n+  )\n+}\n"
+                },
+                {
+                    "date": 1734440535683,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,31 +8,12 @@\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n         <br />\n-        who is \n+        who is trying to make more \n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n     </section>\n   )\n }\n-import { BlogPosts } from 'app/components/posts'\n-\n-export default function Page() {\n-  return (\n-    <section>\n-      <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n-        Kubo Tatsuki\n-      </h1>\n-      <p className=\"mb-4\">\n-        photographer & programmer & designer\n-        <br />\n-        \n-      </p>\n-      <div className=\"my-8\">\n-        <BlogPosts />\n-      </div>\n-    </section>\n-  )\n-}\n"
+                },
+                {
+                    "date": 1734440543271,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,9 +8,9 @@\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n         <br />\n-        who is trying to make more \n+        who is trying to make more beatiful thing\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1734440558814,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,9 +8,9 @@\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n         <br />\n-        who is trying to make more beatiful thing\n+        who is trying to creating more beatiful things\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                }
+            ],
+            "date": 1734437972711,
+            "name": "Commit-0",
+            "content": "import { BlogPosts } from 'app/components/posts'\n\nexport default function Page() {\n  return (\n    <section>\n      <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n        \n      </h1>\n      <p className=\"mb-4\">\n        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in\n        Vim's keystroke commands and tabs' flexibility for personal viewing\n        preferences. This extends to my support for static typing, where its\n        early error detection ensures cleaner code, and my preference for dark\n        mode, which eases long coding sessions by reducing eye strain.`}\n      </p>\n      <div className=\"my-8\">\n        <BlogPosts />\n      </div>\n    </section>\n  )\n}\n"
+        }
+    ]
+}
