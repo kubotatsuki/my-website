@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 36,
+            "activePatchIndex": 38,
             "patches": [
                 {
                     "date": 1734437972711,
@@ -152,6 +152,14 @@
                 {
                     "date": 1734440558814,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,9 +8,9 @@\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n         <br />\n-        who is trying to make more beatiful thing\n+        who is trying to creating more beatiful things\n       </p>\n       <div className=\"my-8\">\n         <BlogPosts />\n       </div>\n"
+                },
+                {
+                    "date": 1735228818278,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n export default function Page() {\n   return (\n     <section>\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n-        Kubo Tatsuki\n+        l Tatsuki\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n         <br />\n"
+                },
+                {
+                    "date": 1735228828139,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n export default function Page() {\n   return (\n     <section>\n       <h1 className=\"mb-8 text-2xl font-semibold tracking-tighter\">\n-        l Tatsuki\n+        ShanJianQing\n       </h1>\n       <p className=\"mb-4\">\n         photographer & programmer & designer\n         <br />\n"
                 }
             ],
             "date": 1734437972711,
